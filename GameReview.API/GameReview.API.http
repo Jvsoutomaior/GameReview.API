@@ -1,0 +1,6 @@
+@GameReview.API_HostAddress = http://localhost:5062
+
+GET {{GameReview.API_HostAddress}}/GameReview/
+Accept: application/json
+
+###
